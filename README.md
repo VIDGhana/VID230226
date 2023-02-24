@@ -9,4 +9,14 @@ theoretical concepts acquired to solve a practical software engineering problem.
 An agile software delivery style has been chosen for the implementation of the group project,
 to make students familiar with modern agile development methodologies.
 
-## This is an experimental course to introduce students early into software engineering principles.
+
+# Tools
+* NVM for NodeJs Package Manager
+* Conda or Pip and virtualenv for Python Package Manager
+* Docker
+* POSTMAN
+* Browser as a client server
+* Git
+* AWS or GCP free tier account 
+
+## This is an experimental course to introduce students early into software engineering principles with focus on both theory and practice.
